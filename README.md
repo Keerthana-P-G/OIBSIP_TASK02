@@ -1,1 +1,7 @@
 # OIBSIP_TASK02
+
+JAVA DEVELOPMENTR
+
+TASKS
+
+Task 2 - Number Guessing Game
